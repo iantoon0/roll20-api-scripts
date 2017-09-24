@@ -242,4 +242,3 @@ on("ready",function(){
     ChangeTokenImg.CheckInstall();
     ChangeTokenImg.RegisterEventHandlers();
 });
-

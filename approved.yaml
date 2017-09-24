@@ -357,3 +357,43 @@ ffgstarwarsdestiny:
 search:
 - "Search"
 - "Utility"
+
+welcomepackage:
+- "WelcomePackage"
+- "Character"
+
+exaltscript:
+- "exaltScript"
+- "System Toolbox"
+
+onerollengine:
+- "OneRollEngine"
+- "System Toolbox"
+
+changetokenimage:
+- "ChangeTokenImage"
+- "Utility"
+
+5ebattlemaster:
+- "5EBattleMaster"
+- "System Toolbox"
+
+totalrolledage:
+- "TotalRolled for AGE"
+- "System Toolbox"
+
+hourglass:
+- "Hourglass"
+- "Utility"
+
+exalted3dice:
+- "EX3Dice"
+- "System Toolbox"
+
+pathfinderneceros:
+- "Pathfinder Companion Neceros"
+- "System Toolbox"
+
+carrytokens:
+- "CarryTokens"
+- "Tokens"
